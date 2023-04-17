@@ -4,7 +4,8 @@
 
 
 <div>
-I'm a Computer Science engineer from Italy.
+I'm a Computer Science Engineer from Italy. I have studied for my bachelor and master degree at Politecnico di Milano.
+Here you can find some of my projects.
 
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -20,6 +21,7 @@ I'm a Computer Science engineer from Italy.
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="60" height="60"/>&nbsp;
+<img src=" https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
 Vulkan &nbsp;
    
