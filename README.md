@@ -8,7 +8,7 @@ I'm a Computer Science Engineer from Italy. I have studied for my bachelor and m
 Here you can find some of my projects.
 <br>
 <br>
-<img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif&show_icons=true&theme=dark" width="450" height="300" />
+<img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif&show_icons=true" width="450" height="300" />
 "
 
 ### :hammer_and_wrench: Languages and Tools :
