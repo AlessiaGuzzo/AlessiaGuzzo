@@ -27,7 +27,9 @@ Vulkan &nbsp;
    
 </div>
 ---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessiaGuzzo)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
   
 📫 How to reach me:
