@@ -9,8 +9,7 @@ Here you can find some of my projects.
 <br>
 <br>
 <img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif" width="450" height="300" />
-"
-
+  
 ### :hammer_and_wrench: Languages and Tools :
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>&nbsp;
