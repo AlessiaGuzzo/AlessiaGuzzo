@@ -6,8 +6,8 @@
 <div>
 I'm a Computer Science Engineer from Italy. I have studied for my bachelor and master degree at Politecnico di Milano.
 Here you can find some of my projects.
-  
-<img align="right" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif?raw=true" width="400" height="320" />
+<br/>
+<img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif?raw=true" width="400" height="250" />
 
 ### :hammer_and_wrench: Languages and Tools :
   
