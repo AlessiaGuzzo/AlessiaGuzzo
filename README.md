@@ -6,8 +6,10 @@
 <div>
 I'm a Computer Science Engineer from Italy. I have studied for my bachelor and master degree at Politecnico di Milano.
 Here you can find some of my projects.
-<br/>
-<img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif?raw=true" width="400" height="250" />
+<br>
+<br>
+<img align="center" alt="GIF" src="https://github.com/AlessiaGuzzo/AlessiaGuzzo/blob/main/coding.gif&show_icons=true&theme=dark" width="450" height="300" />
+"
 
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -30,7 +32,7 @@ Vulkan &nbsp;
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessiaGuzzo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessiaGuzzo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
   
 📫 How to reach me:
