@@ -26,10 +26,11 @@ Here you can find some of my projects.
 Vulkan &nbsp;
    
 </div>
----
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessiaGuzzo)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 ---
   
 📫 How to reach me:
