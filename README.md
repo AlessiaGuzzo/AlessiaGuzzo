@@ -29,5 +29,7 @@ Vulkan &nbsp;
   
 ---
   
-📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-alessia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alessia-guzzo/)
+📫 How to reach me:
+- [![Linkedin Badge](https://img.shields.io/badge/-alessia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alessia-guzzo/)
+- alessiaguzzo9@gmail.com
 ###
